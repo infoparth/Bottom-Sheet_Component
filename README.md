@@ -27,8 +27,8 @@ Make sure you have Node.js (v14 or higher) and npm installed on your machine.
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/infoparth/Bottom-Sheet_Component.git
+cd Bottom-Sheet_Component
 ```
 
 2. Install dependencies:
