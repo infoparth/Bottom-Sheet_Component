@@ -7,7 +7,7 @@ A responsive and accessible bottom sheet component built with React and TypeScri
 - 🔄 Multiple snap points (Closed, Half, Full)
 - 🎨 Smooth spring animations
 - ⌨️ Keyboard controls:
-  - `O` - Open the bottom sheet
+  - `O` - (Shift + 'o') Open the bottom sheet
   - `↑` - Move sheet to next snap point
   - `↓` - Move sheet to previous snap point
   - `Esc` - Close the sheet
@@ -89,7 +89,7 @@ const App = () => {
 
 The bottom sheet can be controlled using the following keys:
 
-- Press `O` to open the bottom sheet
+- Press `O` (Shift + 'o') to open the bottom sheet
 - Use `↑` Arrow Up to move to the next snap point
 - Use `↓` Arrow Down to move to the previous snap point
 - Press `Esc` to snap to the nearest point
